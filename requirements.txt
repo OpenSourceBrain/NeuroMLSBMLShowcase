@@ -1,3 +1,4 @@
 pyneuroml
 neuron
 frozendict
+scipy
