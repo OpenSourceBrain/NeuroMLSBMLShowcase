@@ -11,4 +11,4 @@ TestNet.net.png
 *_code.gen.so
 *_eden.py
 *.mod
-
+/BallAndStick.cell.svg
