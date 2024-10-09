@@ -16,7 +16,7 @@
             <property tag="color" value="1 0 0"/>
             <property tag="region" value="region1"/>
             <instance id="0">
-                <location x="966.453535692138757" y="44.073259917535268" z="7.491470058587191"/>
+                <location x="96.645353569213881" y="44.073259917535268" z="0.749147005858719"/>
             </instance>
         </population>
         <inputList id="stim_soma" population="pop0" component="i_clamp_early">
