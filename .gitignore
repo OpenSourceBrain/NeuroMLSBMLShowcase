@@ -1,0 +1,14 @@
+
+.ipynb_checkpoints
+BallAndStick.hoc
+LEMS_SimTestNet_nrn.py
+*.dat
+arm64
+report*.txt
+*.gv*
+TestNet.net.png
+*_code.gen.c
+*_code.gen.so
+*_eden.py
+*.mod
+
