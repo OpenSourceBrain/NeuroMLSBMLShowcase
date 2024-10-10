@@ -1,4 +1,2 @@
-pyneuroml
+pyneuroml[vispy]
 neuron
-frozendict
-scipy
