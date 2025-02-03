@@ -16,3 +16,6 @@ TestNet.net.png
 /x86_64
 /SBML/*.pdf
 /SBML/autogen_report_for_task1.csv
+/.DS_Store
+/test/*.pdf
+/test/autogen_report_for_task1.csv
